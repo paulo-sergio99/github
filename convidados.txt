@@ -2,3 +2,5 @@ eduardo
 paulo
 vinicius
 carlos
+jose
+carol
