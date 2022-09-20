@@ -1,0 +1,2 @@
+iniciar funcionalidade de login
+validacao de e-mail de usuario
