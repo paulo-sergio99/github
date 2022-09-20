@@ -3,4 +3,9 @@ paulo
 vinicius
 bruno
 carlos
+<<<<<<< HEAD
 kermison
+=======
+jose
+carol
+>>>>>>> ba56f2916c1a8de1ac62dbe3a3c5c73909e6d7b5
